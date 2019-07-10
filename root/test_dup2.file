@@ -1,0 +1,5 @@
+Testing Dup2, please pass, Amen!* Just now 32 bytes was written
+***************
+* Third test on dup2: Dup2 on same fds
+I should be wrote into stdout, but since dup2 on same fd has no effect, so still that file
+* Just now 91 bytes was written
